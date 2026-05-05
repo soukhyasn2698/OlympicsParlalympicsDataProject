@@ -1,9 +1,20 @@
 import type { SportRecord } from "@/data/sports";
 
-const apiKey = (import.meta as unknown as { env: Record<string, string> }).env
-  .VITE_GEMINI_API_KEY;
+async function callAI(prompt: string): Promise<string> {
+  const res = await fetch("/api/ask", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ prompt }),
+  });
 
-const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent`;
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err?.error ?? `HTTP ${res.status}`);
+  }
+
+  const data = await res.json();
+  return data.text ?? "No response received.";
+}
 
 type AggRow = { event: string; gold: number; silver: number; bronze: number; total: number };
 
@@ -107,22 +118,5 @@ CRITICAL INSTRUCTIONS:
 
 User question: ${question}`;
 
-  const res = await fetch(ENDPOINT, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "X-goog-api-key": apiKey,
-    },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-    }),
-  });
-
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err?.error?.message ?? `HTTP ${res.status}`);
-  }
-
-  const json = await res.json();
-  return json.candidates?.[0]?.content?.parts?.[0]?.text ?? "No response received.";
+  return callAI(prompt);
 }

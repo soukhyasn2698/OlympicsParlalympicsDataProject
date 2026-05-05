@@ -3,36 +3,27 @@ FROM node:20-alpine AS builder
 
 WORKDIR /app
 
-# Install dependencies
 COPY package*.json ./
 RUN npm ci
 
-# Copy source
 COPY . .
 
-# Accept the API key as a build argument so Vite can bake it into the bundle
-ARG VITE_GEMINI_API_KEY
-ENV VITE_GEMINI_API_KEY=$VITE_GEMINI_API_KEY
-
-# Build the app
+# No API key needed at build time anymore — it lives on the server
 RUN npm run build
 
-# Stage 2: Serve with nginx
-FROM nginx:alpine
+# Stage 2: Run Express server
+FROM node:20-alpine
 
-# Copy built files
-COPY --from=builder /app/dist /usr/share/nginx/html
+WORKDIR /app
 
-# nginx config for SPA — redirect all routes to index.html
-RUN printf 'server {\n\
-  listen 8080;\n\
-  root /usr/share/nginx/html;\n\
-  index index.html;\n\
-  location / {\n\
-    try_files $uri $uri/ /index.html;\n\
-  }\n\
-}\n' > /etc/nginx/conf.d/default.conf
+# Only install production dependencies
+COPY package*.json ./
+RUN npm ci --omit=dev
+
+# Copy built frontend and server
+COPY --from=builder /app/dist ./dist
+COPY server.js ./
 
 EXPOSE 8080
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["node", "server.js"]
