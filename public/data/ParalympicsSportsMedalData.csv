@@ -1,0 +1,401 @@
+﻿Event,Gold,Silver,Bronze,Total,Year,Season
+PARA - Nordic Skiing,10,2,3,15,2026,Winter
+PARA - Snowboard,2,2,2,6,2026,Winter
+PARA - Alpine Skiing,0,1,1,2,2026,Winter
+PARA - Sled Hockey,1,0,0,1,2026,Winter
+PARA - Nordic Skiing,4,8,2,14,2022,Winter
+PARA - Snowboard,1,2,1,4,2022,Winter
+PARA - Alpine Skiing,0,1,0,1,2022,Winter
+PARA - Sled Hockey,1,0,0,1,2022,Winter
+PARA - Alpine Skiing,1,3,2,6,2018,Winter
+PARA - Nordic Skiing,6,7,3,16,2018,Winter
+PARA - Snowboard,5,5,3,13,2018,Winter
+PARA - Sled Hockey,1,0,0,1,2018,Winter
+PARA - Alpine Skiing,0,4,6,10,2014,Winter
+PARA - Nordic Skiing,0,2,1,3,2014,Winter
+PARA - Snowboard,1,1,2,4,2014,Winter
+PARA - Sled Hockey,1,0,0,1,2014,Winter
+PARA - Alpine Skiing,3,5,3,11,2010,Winter
+PARA - Nordic Skiing,0,0,1,1,2010,Winter
+PARA - Sled Hockey,1,0,0,1,2010,Winter
+PARA - Nordic Skiing,2,0,1,3,2006,Winter
+PARA - Alpine Skiing,5,2,1,8,2006,Winter
+PARA - Sled Hockey,0,0,1,1,2006,Winter
+PARA - Nordic Skiing,0,5,0,5,2002,Winter
+PARA - Alpine Skiing,9,17,11,37,2002,Winter
+PARA - Sled Hockey,1,0,0,1,2002,Winter
+PARA - Nordic Skiing,0,0,2,2,1998,Winter
+PARA - Alpine Skiing,13,8,11,32,1998,Winter
+PARA - Nordic Skiing,0,3,1,4,1994,Winter
+PARA - Alpine Skiing,24,9,6,39,1994,Winter
+PARA - Nordic Skiing,2,0,1,3,1992,Winter
+PARA - Alpine Skiing,18,16,8,42,1992,Winter
+PARA - Nordic Skiing,1,0,1,2,1988,Winter
+PARA - Alpine Skiing,6,17,5,28,1988,Winter
+PARA - Alpine Skiing,7,13,14,34,1984,Winter
+PARA - Nordic Skiing,0,1,0,1,1984,Winter
+Giant Slalom 2A - Women,0,0,1,1,1980,Winter
+Giant Slalom 3A - Women,1,1,0,2,1980,Winter
+Giant Slalom 4 - Men,1,0,0,1,1980,Winter
+Slalom 3A - Women,1,0,0,1,1980,Winter
+Slalom 4 - Men,1,0,0,1,1980,Winter
+PARA - Swimming,10,17,3,30,2024,Summer
+PARA - Track & Field,10,14,14,38,2024,Summer
+PARA - Cycling,4,1,3,8,2024,Summer
+PARA - Archery,2,0,0,2,2024,Summer
+PARA - Triathlon,3,3,2,8,2024,Summer
+PARA - Shooting,0,1,0,1,2024,Summer
+PARA - Equestrian,5,1,1,7,2024,Summer
+PARA - Canoe Sprint,0,0,1,1,2024,Summer
+PARA - Rowing,0,1,0,1,2024,Summer
+PARA - Volleyball,1,0,0,1,2024,Summer
+PARA - Basketball,1,1,0,2,2024,Summer
+PARA - Rugby,0,1,0,1,2024,Summer
+PARA - Taekwondo,0,0,1,1,2024,Summer
+PARA - Judo,0,1,1,2,2024,Summer
+PARA - Table Tennis,0,0,1,1,2024,Summer
+PARA - Badminton,0,1,0,1,2024,Summer
+PARA - Cycling,3,2,3,8,2021,Summer
+PARA - Swimming,15,10,10,35,2021,Summer
+PARA - Equestrian,2,0,1,3,2021,Summer
+PARA - Track & Field,10,17,14,41,2021,Summer
+PARA - Triathlon,3,2,0,5,2021,Summer
+PARA - Archery,1,0,0,1,2021,Summer
+PARA - Canoe Sprint,0,1,0,1,2021,Summer
+PARA - Rowing,0,1,0,1,2021,Summer
+PARA - Basketball,1,0,1,2,2021,Summer
+PARA - Goalball,0,1,0,1,2021,Summer
+PARA - Rugby,0,1,0,1,2021,Summer
+PARA - Volleyball,1,0,0,1,2021,Summer
+PARA - Table Tennis,1,0,1,2,2021,Summer
+PARA - Judo,0,1,0,1,2021,Summer
+PARA - Taekwondo,0,0,1,1,2021,Summer
+PARA - Track & Field,16,15,11,42,2016,Summer
+PARA - Cycling,4,9,5,18,2016,Summer
+PARA - Swimming,14,14,9,37,2016,Summer
+PARA - Triathlon,2,1,1,4,2016,Summer
+PARA - Shooting,0,0,1,1,2016,Summer
+PARA - Archery,1,0,0,1,2016,Summer
+PARA - Rowing,0,1,0,1,2016,Summer
+PARA - Sailing,0,1,0,1,2016,Summer
+PARA - Rugby,0,1,0,1,2016,Summer
+PARA - Basketball,2,0,0,2,2016,Summer
+PARA - Goalball,0,1,1,2,2016,Summer
+PARA - Volleyball,1,0,0,1,2016,Summer
+PARA - Judo,0,0,2,2,2016,Summer
+PARA - Tennis,0,1,1,2,2016,Summer
+PARA - Swimming,14,13,14,41,2012,Summer
+PARA - Cycling,6,5,6,17,2012,Summer
+PARA - Track & Field,9,6,13,28,2012,Summer
+PARA - Archery,1,1,0,2,2012,Summer
+PARA - Rowing,0,0,1,1,2012,Summer
+PARA - Sailing,0,1,0,1,2012,Summer
+PARA - Rugby,0,0,1,1,2012,Summer
+PARA - Basketball,0,0,1,1,2012,Summer
+PARA - Volleyball,0,1,0,1,2012,Summer
+PARA - Judo,0,1,1,2,2012,Summer
+PARA - Tennis,1,1,1,3,2012,Summer
+PARA - Swimming,17,14,13,44,2008,Summer
+PARA - Track & Field,9,14,5,28,2008,Summer
+PARA - Cycling,5,5,4,14,2008,Summer
+PARA - Sailing,1,0,1,2,2008,Summer
+PARA - Archery,0,0,2,2,2008,Summer
+PARA - Rowing,0,1,1,2,2008,Summer
+PARA - Basketball,1,0,0,1,2008,Summer
+PARA - Volleyball,0,1,0,1,2008,Summer
+PARA - Goalball,1,0,0,1,2008,Summer
+PARA - Rugby,1,0,0,1,2008,Summer
+PARA - Judo,0,0,1,1,2008,Summer
+PARA - Tennis,1,0,1,2,2008,Summer
+PARA - Track & Field,7,8,11,26,2004,Summer
+PARA - Swimming,16,4,15,35,2004,Summer
+PARA - Cycling,2,4,3,9,2004,Summer
+PARA - Sailing,0,1,1,2,2004,Summer
+PARA - Archery,0,0,2,2,2004,Summer
+PARA - Equestrian,0,1,0,1,2004,Summer
+PARA - Shooting,0,1,0,1,2004,Summer
+PARA - Basketball,1,0,0,1,2004,Summer
+PARA - Volleyball,0,0,1,1,2004,Summer
+PARA - Goalball,0,1,1,2,2004,Summer
+PARA - Rugby,0,0,1,1,2004,Summer
+PARA - Table Tennis,0,0,1,1,2004,Summer
+PARA - Judo,0,1,2,3,2004,Summer
+PARA - Tennis,1,1,0,2,2004,Summer
+PARA - Fencing,0,0,1,1,2004,Summer
+PARA - Swimming,15,17,7,39,2000,Summer
+PARA - Track & Field,14,15,20,49,2000,Summer
+PARA - Cycling,3,4,2,9,2000,Summer
+PARA - Powerlifting,1,1,0,2,2000,Summer
+PARA - Sailing,0,0,1,1,2000,Summer
+PARA - Basketball,0,0,1,1,2000,Summer
+PARA - Rugby,1,0,0,1,2000,Summer
+PARA - Judo,2,1,1,4,2000,Summer
+PARA - Tennis,0,1,1,2,2000,Summer
+PARA - Table Tennis,0,0,1,1,2000,Summer
+PARA - Swimming,16,13,16,45,1996,Summer
+PARA - Track & Field,22,24,32,78,1996,Summer
+PARA - Cycling,2,5,6,13,1996,Summer
+PARA - Equestrian,2,0,1,3,1996,Summer
+PARA - Powerlifting,1,0,1,2,1996,Summer
+PARA - Sailing,0,0,1,1,1996,Summer
+PARA - Basketball,0,0,2,2,1996,Summer
+PARA - Goalball,0,0,1,1,1996,Summer
+PARA - Judo,0,1,3,4,1996,Summer
+PARA - Tennis,1,2,0,3,1996,Summer
+PARA - Boccia,0,0,1,1,1996,Summer
+PARA - Table Tennis,2,1,2,5,1996,Summer
+PARA - Swimming,29,16,12,57,1992,Summer
+PARA - Track & Field,40,25,31,96,1992,Summer
+PARA - Cycling,1,3,0,4,1992,Summer
+PARA - Weightlifting,2,0,2,4,1992,Summer
+PARA - Powerlifting,0,1,0,1,1992,Summer
+PARA - Archery,0,1,0,1,1992,Summer
+PARA - Basketball,0,1,0,1,1992,Summer
+PARA - Judo,0,2,1,3,1992,Summer
+PARA - Tennis,2,1,0,3,1992,Summer
+PARA - Boccia,0,1,0,1,1992,Summer
+PARA - Table Tennis,1,1,2,4,1992,Summer
+PARA - Swimming,31,28,21,80,1988,Summer
+PARA - Track & Field,50,56,56,162,1988,Summer
+PARA - Cycling,0,1,2,3,1988,Summer
+PARA - Weightlifting,1,2,0,3,1988,Summer
+PARA - Powerlifting,1,0,3,4,1988,Summer
+PARA - Archery,0,0,1,1,1988,Summer
+PARA - Basketball,2,0,0,2,1988,Summer
+PARA - Goalball,0,2,0,2,1988,Summer
+PARA - Judo,0,0,2,2,1988,Summer
+PARA - Table Tennis,3,1,1,5,1988,Summer
+PARA - Swimming,37,25,43,105,1984,Summer
+PARA - Track & Field,73,80,73,226,1984,Summer
+PARA - Cycling,0,1,1,2,1984,Summer
+PARA - Shooting,1,0,2,3,1984,Summer
+PARA - Equestrian,5,7,1,13,1984,Summer
+PARA - Weightlifting,1,2,2,5,1984,Summer
+PARA - Powerlifting,3,1,1,5,1984,Summer
+PARA - Archery,1,0,1,2,1984,Summer
+PARA - Wrestling,7,2,0,9,1984,Summer
+PARA - Boccia,2,1,2,5,1984,Summer
+PARA - Lawn Bowls,0,0,1,1,1984,Summer
+PARA - Table Tennis,0,3,1,4,1984,Summer
+PARA - Swimming,19,14,18,51,1980,Summer
+PARA - Track & Field,38,45,28,111,1980,Summer
+PARA - Weightlifting,0,2,0,2,1980,Summer
+PARA - Archery,1,1,0,2,1980,Summer
+PARA - Basketball,0,0,2,2,1980,Summer
+PARA - Wrestling,8,0,0,8,1980,Summer
+PARA - Lawn Bowls,1,1,1,3,1980,Summer
+PARA - Table Tennis,2,1,2,5,1980,Summer
+PARA - Swimming,17,8,15,40,1976,Summer
+PARA - Track & Field,36,34,26,96,1976,Summer
+PARA - Weightlifting,2,0,1,3,1976,Summer
+PARA - Archery,3,0,3,6,1976,Summer
+PARA - Basketball,1,0,0,1,1976,Summer
+PARA - Snooker,0,1,0,1,1976,Summer
+PARA - Lawn Bowls,1,0,0,1,1976,Summer
+PARA - Table Tennis,2,3,2,7,1976,Summer
+PARA - Dartchery,1,1,0,2,1976,Summer
+PARA - Swimming,1,3,4,8,1972,Summer
+PARA - Track & Field,14,18,18,50,1972,Summer
+PARA - Weightlifting,1,3,1,5,1972,Summer
+PARA - Archery,0,2,0,2,1972,Summer
+PARA - Basketball,1,0,0,1,1972,Summer
+PARA - Table Tennis,0,1,1,2,1972,Summer
+PARA - Lawn Bowls,0,0,2,2,1972,Summer
+PARA - Dartchery,0,0,1,1,1972,Summer
+PARA - Swimming,12,10,7,29,1968,Summer
+PARA - Track & Field,16,11,16,43,1968,Summer
+PARA - Weightlifting,0,0,2,2,1968,Summer
+PARA - Archery,3,3,5,11,1968,Summer
+PARA - Lawn Bowls,0,2,3,5,1968,Summer
+PARA - Table Tennis,1,0,4,5,1968,Summer
+PARA - Dartchery,1,0,0,1,1968,Summer
+PARA - Swimming,22,18,14,54,1964,Summer
+PARA - Track & Field,16,18,12,46,1964,Summer
+PARA - Weightlifting,0,0,1,1,1964,Summer
+PARA - Archery,7,0,2,9,1964,Summer
+PARA - Basketball,1,0,0,1,1964,Summer
+PARA - Snooker,0,1,0,1,1964,Summer
+PARA - Table Tennis,1,2,2,5,1964,Summer
+PARA - Fencing,0,1,1,2,1964,Summer
+PARA - Dartchery,0,1,0,1,1964,Summer
+PARA - Swimming,3,6,5,14,1960,Summer
+PARA - Track & Field,3,0,1,4,1960,Summer
+PARA - Archery,2,0,1,3,1960,Summer
+PARA - Basketball,1,0,0,1,1960,Summer
+PARA - Dartchery,1,1,0,2,1960,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
+,,,,,,Summer
